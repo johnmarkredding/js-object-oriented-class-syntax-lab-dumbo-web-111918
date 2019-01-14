@@ -11,7 +11,7 @@ class BoardMember {
     return "You can do that!";
   }
   doCharity() {
-    return "No, I must disagree";
+    return "I like to help people.";
   }
   
 }
