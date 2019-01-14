@@ -5,13 +5,13 @@ class BoardMember {
     this.training = training;
   }
   veto() {
-    return "No, I must disagree"
+    return "No, I must disagree";
   }
   approve() {
-    return "You can do that!"
+    return "You can do that!";
   }
-  veto() {
-    return "No, I must disagree"
+  doCharity() {
+    return "No, I must disagree";
   }
   
 }
