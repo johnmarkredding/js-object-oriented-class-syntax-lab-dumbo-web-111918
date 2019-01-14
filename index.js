@@ -13,5 +13,8 @@ class BoardMember {
   doCharity() {
     return "I like to help people.";
   }
+  doCharity() {
+    return "I like to help people.";
+  }
   
 }
